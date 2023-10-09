@@ -1,2 +1,1 @@
-# git-branch-case
-Repository for branch case.
+# Работа с ветками
